@@ -28,6 +28,11 @@ body {
   margin: 0 auto;
 }
 
+.page-header {
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
