@@ -13,6 +13,7 @@ ol {
 
 img {
   max-width: 100%;
+  width: 100%;
 }
 
 /* Layout */
@@ -26,4 +27,8 @@ img {
 .row {
   display: flex;
   flex-wrap: wrap;
+}
+
+.col-12 {
+  width: 100%;
 }
