@@ -49,4 +49,10 @@ body {
 footer {
   background-color: rgb(57, 62, 67);
   color: white;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 2.5rem;
 }
