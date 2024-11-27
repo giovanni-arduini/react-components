@@ -3,7 +3,13 @@ import Main from "./components/Main";
 import Footer from "./components/Footer";
 
 function App() {
-  return <div>Ciao!</div>;
+  return (
+    <>
+      <Header />
+      <Main />
+      <Footer />
+    </>
+  );
 }
 
 export default App;
