@@ -11,10 +11,10 @@ ol {
   list-style: none;
 }
 
-img {
+/* img {
   max-width: 100%;
   width: 100%;
-}
+} */
 
 /* Layout */
 
@@ -50,15 +50,6 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
-}
-
-.post-card {
-  background-color: white;
-  max-width: 30rem;
-}
-
-.card-body {
-  padding: 1rem;
 }
 
 footer {
