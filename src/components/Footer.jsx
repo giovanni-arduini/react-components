@@ -1,7 +1,9 @@
 export default function Footer() {
   return (
     <footer className="page-footer">
-      <section className="container">Qui c'è l'Header!</section>
+      <section className="container">
+        <div>Qui c'è il footer!</div>
+      </section>
     </footer>
   );
 }
