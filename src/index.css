@@ -18,6 +18,10 @@ img {
 
 /* Layout */
 
+body {
+  background-color: gainsboro;
+}
+
 .container {
   max-width: 1024px;
   padding: 0 2rem;
@@ -27,8 +31,22 @@ img {
 .row {
   display: flex;
   flex-wrap: wrap;
+  row-gap: 1.5rem;
+  margin: 0 -0.75rem;
+}
+
+.row > * {
+  padding: 0 0.75rem;
+  width: 100%;
 }
 
 .col-12 {
+  display: flex;
+  justify-content: center;
   width: 100%;
+}
+
+footer {
+  background-color: rgb(57, 62, 67);
+  color: white;
 }
