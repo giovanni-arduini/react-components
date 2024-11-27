@@ -1,5 +1,5 @@
 import image from "../../assets/images.png";
-import Button from "../UI/button";
+import Button from "../UI/button/button";
 
 export default function card() {
   return (
