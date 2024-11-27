@@ -3,8 +3,8 @@
   display: inline-block;
   padding: 0 1rem;
   line-height: 2rem;
-  background-color: coral;
+  background-color: rgb(241, 188, 82);
   color: white;
-  border-radius: 0.5rem;
+  border-radius: 0.2rem;
   text-transform: uppercase;
 }
