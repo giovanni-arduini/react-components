@@ -1,4 +1,5 @@
 import image from "../../assets/images.png";
+import Button from "../UI/button";
 
 export default function card() {
   return (
@@ -13,7 +14,9 @@ export default function card() {
           omnis illum doloremque porro sit veniam exercitationem autem animi ab
           eligendi?
         </div>
-        <div></div>
+        <div>
+          <Button />
+        </div>
       </div>
     </div>
   );
