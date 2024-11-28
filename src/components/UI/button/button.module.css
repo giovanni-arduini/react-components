@@ -8,3 +8,8 @@
   border-radius: 0.2rem;
   text-transform: uppercase;
 }
+
+.button:hover {
+  background-color: rgb(241, 175, 82);
+  cursor: pointer;
+}
